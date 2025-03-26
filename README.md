@@ -20,3 +20,7 @@ The Main Terraform Command Used To Achieve This Are As Follows
 A. terraform init - "Initialize terraform and download all the azure providers needed for the successful creation of the resource group" 
 B. terraform plan- "This creates an execution plan"
 C. terraform apply- "This executes the plan"
+Here are some of the links to the documentation that i used as a guide in completing the project.
+- [Terraform Documentation](https://learn.microsoft.com/en-us/azure/developer/terraform/create-resource-group?tabs=azure-cli)
+
+- [GitHub gitignore file] (https://docs.github.com/en/get-started/git-basics/ignoring-files)
